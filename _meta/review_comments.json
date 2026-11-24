@@ -1,0 +1,4 @@
+[
+{"id":1529180353,"pr":22,"user":"Mr-VIT","path":"CONTENT/DOCS/PSDSC/GamingMinimal.ps1","line":20,"commit_id":"5e2e229aadb1330be44125de09c674f6f1503a86","in_reply_to_id":null,"created_at":"2024-03-18T19:51:04Z","updated_at":"2024-03-18T19:51:05Z","html_url":"https://github.com/djdallmann/GamingPCSetup/pull/22#discussion_r1529180353","body":"additional\r\nget current username = `$env:username` instead of `$myusername`"},
+{"id":1639382258,"pr":24,"user":"kurtextrem","path":"CONTENT/DOCS/NETWORK/Realtek Optimization","line":17,"commit_id":"2c548d4acae96e1ad1d77bee49cbe9ab160abf7f","in_reply_to_id":null,"created_at":"2024-06-14T07:18:25Z","updated_at":"2024-06-14T07:18:25Z","html_url":"https://github.com/djdallmann/GamingPCSetup/pull/24#discussion_r1639382258","body":"this increases latency on intel based ethernet adapters, so ymmv"}
+]
